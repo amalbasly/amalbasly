@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I may build a talkative robot one day!**
 
-<h3 align="left">Connect with me:[Amal Basly](https://linkedin.com/in/amal-basly)</h3>
+Connect with me [Amal Basly](https://linkedin.com/in/amal-basly)
 
 </p>
 
