@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **VHDL, Flutter, JavaScript, PHP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amalbasly](https://github.com/amalbasly)
+- 👨‍💻 All of my projects are available at [My github account](https://github.com/amalbasly)
 
 - 📫 How to reach me **amalbasly92@gmail.com**
 
