@@ -1,15 +1,15 @@
 <h1 align="center">Hi there👋, I'm Amal Basly</h1>
-<h3 align="center">I'm a passionate IoT and development learner</h3>
+<h3 align="center">I'm a Passionate IoT & Embedded Systems Learner</h3>
 
-- 🔭 I’m currently studying **computer systems engineering | IoT & Embedded Systems**
+- 🔭 **I’m a Computer Systems Engineering student specializing in IoT & Embedded Systems**
 
-- 🌱 I’m currently learning **VHDL, Flutter, JavaScript, PHP**
+- 🌱 **I’m currently developing skills in VHDL for FPGA programming, Linux systems, C programming, and embedded software development**
 
 - 👨‍💻 All of my projects are available at [My github account](https://github.com/amalbasly)
 
 - 📫 How to reach me **amalbasly92@gmail.com**
 
-- ⚡ Fun fact **I may build a talkative robot one day!**
+- ⚡ Fun fact **I’m working on building devices that can not only see but also talk back!**
 
 Connect with me [Amal Basly](https://linkedin.com/in/amal-basly)
 
