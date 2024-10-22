@@ -1,9 +1,9 @@
 <h1 align="center">Hi there👋, I'm Amal Basly</h1>
 <h3 align="center">I'm a Passionate IoT & Embedded Systems Learner</h3>
 
-- 🔭 **I’m a Computer Systems Engineering student specializing in IoT & Embedded Systems**
+- 🔭 I’m a Computer Systems Engineering student specializing in IoT & Embedded Systems
 
-- 🌱 **I’m currently honing skills in VHDL, Linux, C programming, and embedded software development**
+- 🌱 I’m currently honing skills in VHDL, Linux, C programming, and embedded software development
 
 - 👨‍💻 All of my projects are available at [My github account](https://github.com/amalbasly)
 
