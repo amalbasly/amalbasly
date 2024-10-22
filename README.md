@@ -3,7 +3,7 @@
 
 - 🔭 **I’m a Computer Systems Engineering student specializing in IoT & Embedded Systems**
 
-- 🌱 **I’m currently developing skills in VHDL for FPGA programming, Linux systems, C programming, and embedded software development**
+- 🌱 **I’m currently honing skills in VHDL, Linux, C programming, and embedded software development**
 
 - 👨‍💻 All of my projects are available at [My github account](https://github.com/amalbasly)
 
