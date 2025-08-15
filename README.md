@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">👋 Hi, I’m Amal Basly</h1>
+<h1 align="center">👋 Hi, I’m Amal </h1>
 <h3 align="center">💡 IoT & Full-Stack Developer | 🔧 Embedded Systems Engineer</h3>
 
 ---
