@@ -17,8 +17,8 @@
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/amal-basly/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Amal%20Basly-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/amal-basli/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Amal%20Basli-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/amalbasly" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-amalbasly-black?style=for-the-badge&logo=github" alt="GitHub"/>
